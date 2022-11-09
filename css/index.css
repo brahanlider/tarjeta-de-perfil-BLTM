@@ -22,7 +22,7 @@
     border-radius: 1rem;
     box-shadow: 0 0 0.123rem 0.125rem white;
     overflow: hidden;
-    max-width: 512px;
+    max-width: 320px;
     transition: box-shadow 0.25s;
     }
 
